@@ -41,12 +41,14 @@ This repository contains an Excel data analysis project focused on coffee sales.
 
 ### Visualization Screenshots:
 
-1. ![Sales Over Time](screenshots/sales_over_time.png)
+1. ![Sales Over Time](https://github.com/vsvkkengam/Coffee_Sales_Analysis_Excel/blob/main/Sales%20over%20Year.png)
    - Line chart illustrating sales trends over time.
 
-2. ![Sales Among Countries](screenshots/sales_among_countries.png)
+2. ![Sales Among Countries](https://github.com/vsvkkengam/Coffee_Sales_Analysis_Excel/blob/main/Sales%20by%20Country.png)
    - Bar chart showcasing sales distribution among different countries.
 
-3. ![Top Five Customers](screenshots/top_five_customers.png)
+3. ![Top Five Customers](https://github.com/vsvkkengam/Coffee_Sales_Analysis_Excel/blob/main/Top5%20Customers.png)
    - Bar chart highlighting the top five customers based on sales.
 
+## Interactive Dashboard
+![Dashboard](https://github.com/vsvkkengam/Coffee_Sales_Analysis_Excel/blob/main/CoffeeSales%20DB.png)
